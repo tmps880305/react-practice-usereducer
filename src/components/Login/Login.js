@@ -55,6 +55,8 @@ const Login = (props) => {
     //     };
     // }, []);
 
+
+    // To make useEffect work only when the validation changed (but not every time when input)
     const {isValid: emailIsValid} = emailState;
     const {isValid: passwordIsValid} = passwordState;
 
