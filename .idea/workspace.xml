@@ -16,13 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Login/Login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="247">
+              <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
-                <element signature="e#509#613#0" />
-                <element signature="e#623#643#0" />
-                <element signature="e#869#888#0" />
               </folding>
             </state>
           </provider>
@@ -118,18 +115,33 @@
       <option name="presentableId" value="Default" />
       <updated>1668881731818</updated>
       <workItem from="1668881733061" duration="503000" />
-      <workItem from="1668882502794" duration="3181000" />
+      <workItem from="1668882502794" duration="4785000" />
     </task>
+    <task id="LOCAL-00001" summary="Section 10-116: Apply useReducer to combine read of useState">
+      <created>1668885905924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668885905924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Section 10-116: Apply useReducer to combine read of useState&#10;&#10;Self practice: passwordState">
+      <created>1668886100354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668886100354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3684000" />
+    <option name="totallyTimeSpent" value="5288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17092651" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17092651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -158,16 +170,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 10-116: Apply useReducer to combine read of useState" />
+    <MESSAGE value="Section 10-116: Apply useReducer to combine read of useState&#10;&#10;Self practice: passwordState" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 10-116: Apply useReducer to combine read of useState&#10;&#10;Self practice: passwordState" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/components/Login/Login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="247">
+          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
-            <element signature="e#509#613#0" />
-            <element signature="e#623#643#0" />
-            <element signature="e#869#888#0" />
           </folding>
         </state>
       </provider>
